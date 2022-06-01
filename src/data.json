@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "task": "Planları hazırla",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Biznes lahiyələrini qiymətləndir",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "Aylıq hesabları nəzərdən keçir",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Komputerlərə texniki qulluq göstər",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Məlumatları yenilə",
+    "complete": false
+  }]
+ 
